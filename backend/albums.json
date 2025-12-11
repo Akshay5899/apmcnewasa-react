@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1761819493196,
+    "title": "Test 1",
+    "slug": "test-1",
+    "photos": [
+      {
+        "id": 1761819493196.0261,
+        "url": "/uploads/1761819493186-723064794.jpeg",
+        "alt": "Print_news1_original.jpeg"
+      },
+      {
+        "id": 1761819493196.483,
+        "url": "/uploads/1761819493189-395144619.jpeg",
+        "alt": "Print2_news_original.jpeg"
+      },
+      {
+        "id": 1761819503280.4707,
+        "url": "/uploads/1761819503276-838532289.jpeg",
+        "alt": "WhatsApp Image 2025-10-30 at 2.29.33 PM (2).jpeg"
+      }
+    ],
+    "createdAt": "2025-10-30T10:18:13.196Z"
+  },
+  {
+    "id": 1764042602793,
+    "title": "Test",
+    "slug": "test",
+    "photos": [
+      {
+        "id": 1764042602793.2214,
+        "url": "/uploads/1764042602784-646651951.jpeg",
+        "alt": "WhatsApp Image 2025-11-24 at 11.02.35 AM.jpeg"
+      }
+    ],
+    "createdAt": "2025-11-25T03:50:02.793Z"
+  }
+]
