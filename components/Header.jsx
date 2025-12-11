@@ -128,7 +128,7 @@ export default function Header() {
               <div className="col-12 col-lg-2 d-flex justify-content-between align-items-center">
                 <Link href="/" className="navbar-brand d-flex align-items-center">
                   <img
-                    src="/apmcnewasa-react/logo-agriculture.png"
+                    src="/logo-agriculture.png"
                     alt="Logo"
                     height="auto"
                     className="me-2"
