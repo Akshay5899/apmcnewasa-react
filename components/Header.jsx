@@ -6,7 +6,7 @@ export default function Header() {
   const [hoverIndex, setHoverIndex] = useState(null);
 
   const menuItems = [
-    { name: "Home", link: "apmcnewasa-react/" },
+    { name: "Home", link: "/" },
     {
       name: "About Us",
       link: "/about-us",
