@@ -1,11 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',                // required for GitHub Pages
+  output: 'export',
   images: {
-    unoptimized: true,            // disable Next.js image optimization
+    unoptimized: true,
   },
-  assetPrefix: '/apmcnewasa-react/', // REQUIRED for images, CSS, JS
-  basePath: '/apmcnewasa-react',     // REQUIRED for routing
+  basePath: '/apmcnewasa-react',
+  assetPrefix: '/apmcnewasa-react/',
 };
 
 module.exports = nextConfig;
