@@ -101,7 +101,7 @@ export default function Header() {
               href="https://mahapanan.maharashtra.gov.in/Site/Home/Index.aspx"
               className="text-white text-decoration-none mx-2"
             >
-              Directorate of Marketin
+              Directorate of Marketing
             </Link>
             <span className="text-white">|</span>
             <Link
