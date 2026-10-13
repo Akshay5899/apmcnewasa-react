@@ -46,7 +46,7 @@ export default function Footer() {
                 <p>
                   📧 
                   <a href="mailto:support@skselfdrivecar.com" className="text-decoration-none text-white">
-                    support@skselfdrivecar.com
+                    supports@skselfdrivecar.com
                   </a>
                 </p>
               </div>
